@@ -1,13 +1,17 @@
 # spa-server
 > Go SPA (single page application) server handler
 
-Get the package:
+**Get the package:**
 
-`go get github.com/roberthodgen/spa-server`
+```
+$ go get github.com/roberthodgen/spa-server
+```
 
-Use the package:
+**Use the package:**
 
-`import "github.com/roberthodgen/spa-server"`
+```go
+import "github.com/roberthodgen/spa-server"
+```
 
 For simple single page application serving using Go's `http` package.
 
